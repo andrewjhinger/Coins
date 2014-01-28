@@ -1,4 +1,4 @@
-#Branching
+#Coins
 
 ###Environment:
 
@@ -9,6 +9,7 @@ Windows form application
 Text..
 
 ![alt tag](https://raw.github.com/andrewjhinger/Coins/master/coinscode.JPG)
+
 ![alt tag](https://raw.github.com/andrewjhinger/Coins/master/coinscode2.JPG)
 
 ###Functionality:
